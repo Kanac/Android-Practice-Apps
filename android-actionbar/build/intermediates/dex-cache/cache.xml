@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="044dc18e3a94736903dd955583b99b858860722f">
+        <dex dex="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_052bea2351f48ba60eb7daa482d5c9e6a929e880\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_8dcb0040bb56572b44d2e7ad362848b5feaf0861\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_7c18c938ff3a5089dc6aa16ae33fb0bc6bbb77c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.3.0_768dab58d2e3f10d0c86895206e90052484a2686\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_f5fdc1d414e3789c2e1523ef638818200cb860fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anthony C\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_983cbdc60a0b75639dae60057a05d230b891e744\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b11b85e22b124800c9a9e3ee7cea5431088f6ec">
+        <dex dex="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_340dda6c3e6ccd389fc2ca839e73f772dbc5f6f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Anthony C\Downloads\android-actionbar\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.2_c3a9c06ca21e9ba9df43390afb5c17f16a9cf4ae\classes.dex" />
+    </item>
+
+</items>
